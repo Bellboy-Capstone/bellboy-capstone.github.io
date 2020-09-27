@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Computer Engineering Capstone Project "Bellboy"
 
 You can use the [editor on GitHub](https://github.com/Bellboy-Capstone/bellboy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
