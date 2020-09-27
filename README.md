@@ -1,8 +1,16 @@
-## Computer Engineering Capstone Project "Bellboy"
+## Computer Engineering Capstone Project
 
-You can use the [editor on GitHub](https://github.com/Bellboy-Capstone/bellboy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*Bellboy* is a system designed for contactless interaction with public buttons.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The project code is divided into two repositories:
+
+**System** stored at [/Bellboy-Capstone/System](https://github.com/Bellboy-Capstone/System) contains the embedded python program that runs on the Bellboy prototype hardware.
+
+**Services** stored at [/Bellboy-Capstone/Services](https://github.com/Bellboy-Capstone/Services) contains the Django-based web application to support the Bellboy systems.
+
+<br />
+
+A tutorial on how to modify this file for group members:
 
 ### Markdown
 
