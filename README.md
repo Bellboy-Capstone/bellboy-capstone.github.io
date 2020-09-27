@@ -1,6 +1,8 @@
 ## Computer Engineering Capstone Project
 
-*Bellboy* is a system designed for contactless interaction with public buttons.
+*Bellboy* is a system designed for contactless interaction with public buttons. After being installed above door, elevator, and service buttons, it will enable the general public to 'press' these buttons through hover, voice, and frequent user identification interactions.
+
+![](/assets/img/bellboy.png)
 
 The project code is divided into two repositories:
 
