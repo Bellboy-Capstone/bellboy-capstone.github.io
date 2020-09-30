@@ -2,6 +2,7 @@
 
 Designed and implemented by Elma Khandaker, Sein Izumita, Shriya Gundala, Yusra Adinoyi, and Ryan Fleck.
 
+
 <br />
 
 The project code is divided into two repositories: *System* and *Services*.
@@ -101,6 +102,16 @@ This set of requirements will be met by the *Bellboy* system and services.
     1. Provide a method of listening and speaking through Bellboy’s audio equipment
 
 
+## BOM: Bill of Materials
+
+| ID | Description                           | Final Cost | Link | 
+|----|---------------------------------------|------------|------|
+| 1  | Raspberry Pi 3                        | $100 CAD   | Link | 
+| 2  | 32GB MicroSD Card                     | $35 CAD    | Link | 
+| 3  | Description                           | Final Cost | Link | 
+| 4  | Description                           | Final Cost | Link | 
+
+
 ## Personal & Professional Expectations
 
 Our group aims to successfully develop a touchless public interface for our current world alied by the ultra-scary COVID-19/SARS-2 virus.
@@ -121,12 +132,23 @@ For any questions about the project, please contact the group members with the i
 | Sein Izumita | [@seinizumita](https://github.com/seinizumita) | [sizum075@uottawa.ca](mailto:sizum075@uottawa.ca) |
 
 
+
 <br />
 
 <br />
+
+<hr />
+
+<br />
+
+<br />
+
 
 ![Bellboy Logo](/assets/img/bellboy.png)
 
+
 <br />
 
 <br />
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
