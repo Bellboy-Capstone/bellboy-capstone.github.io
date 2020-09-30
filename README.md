@@ -1,11 +1,6 @@
-*Bellboy* is a system designed for contactless interaction with public buttons. After being installed above door, elevator, and service buttons, it will enable the general public to 'press' these buttons through hover, voice, and frequent user identification interactions. This website stores the master copy of the project description and goals, and links to programs and work related to the project.
+*Bellboy* is a system designed for contactless interaction with public buttons. After being installed above door, elevator, and service buttons, it will enable the general public to 'press' these buttons through hover, voice, and frequent user identification interactions. This website stores the master copy of the project description and goals, and links to programs and work related to the project. The project code is divided into two repositories: embedded **System** code and the **Services** the Bellboy devices rely on.
 
 Designed and implemented by Elma Khandaker, Sein Izumita, Shriya Gundala, Yusra Adinoyi, and Ryan Fleck. [Contact us.](#contact)
-
-
-<br />
-
-The project code is divided into two repositories: *System* and *Services*.
 
 <br />
 
@@ -24,8 +19,6 @@ The **System** repo stored at [/Bellboy-Capstone/System](https://github.com/Bell
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8fb53c0f016b46889a92c8bc37d26bbe)](https://www.codacy.com/gh/Bellboy-Capstone/Services/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bellboy-Capstone/Services&amp;utm_campaign=Badge_Grade)
 
 The **Services** repo stored at [/Bellboy-Capstone/Services](https://github.com/Bellboy-Capstone/Services) contains the Django-based web application to support the Bellboy systems. [_Read more here._](https://github.com/Bellboy-Capstone/Services#services)
-
-<br />
 
 <br />
 
@@ -102,6 +95,13 @@ This set of requirements will be met by the *Bellboy* system and services.
     1. Provide a method of listening and speaking through Bellboy’s audio equipment
 
 
+## Personal & Professional Expectations
+
+Our group aims to successfully develop a touchless public interface for our current world alied by the ultra-scary COVID-19/SARS-2 virus.
+
+We will also be doing research into which designs and functions would best suit the ideas we are planning to implement and consulting different literatures to support our design choices. Making sure that our design is intuitive and accessible is crucial so that end users are able to use it with ease. We will be learning how to interface our sensors with the raspberry pi and how to use the data we get from it to produce an output in our website dashboard. We want to be able to work efficiently in a group by setting deadlines and managing time. Lastly, we plan to make our design fun for ourselves as well as our end users.
+
+
 ## BOM: Bill of Materials
 
 | ID | Description                           | Final Cost | Link | 
@@ -110,14 +110,6 @@ This set of requirements will be met by the *Bellboy* system and services.
 | 2  | 32GB MicroSD Card                     | $35 CAD    | Link | 
 | 3  | Description                           | Final Cost | Link | 
 | 4  | Description                           | Final Cost | Link | 
-
-
-## Personal & Professional Expectations
-
-Our group aims to successfully develop a touchless public interface for our current world alied by the ultra-scary COVID-19/SARS-2 virus.
-
-We will also be doing research into which designs and functions would best suit the ideas we are planning to implement and consulting different literatures to support our design choices. Making sure that our design is intuitive and accessible is crucial so that end users are able to use it with ease. We will be learning how to interface our sensors with the raspberry pi and how to use the data we get from it to produce an output in our website dashboard. We want to be able to work efficiently in a group by setting deadlines and managing time. Lastly, we plan to make our design fun for ourselves as well as our end users.
-
 
 ## Contact
 
