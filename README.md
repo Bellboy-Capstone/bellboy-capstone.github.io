@@ -1,6 +1,6 @@
 *Bellboy* is a system designed for contactless interaction with public buttons. After being installed above door, elevator, and service buttons, it will enable the general public to 'press' these buttons through hover, voice, and frequent user identification interactions. This website stores the master copy of the project description and goals, and links to programs and work related to the project.
 
-Designed and implemented by Elma Khandaker, Sein Izumita, Shriya Gundala, Yusra Adinoyi, and Ryan Fleck.
+Designed and implemented by Elma Khandaker, Sein Izumita, Shriya Gundala, Yusra Adinoyi, and Ryan Fleck. [Contact us.](#contact)
 
 
 <br />
