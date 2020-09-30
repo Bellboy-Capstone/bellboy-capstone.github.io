@@ -30,6 +30,8 @@ The **Services** repo stored at [/Bellboy-Capstone/Services](https://github.com/
 
 # Project Proposal
 
+The *Bellboy* project aims to create a contactless switch-actuation system that will augment existing public buttons for opening doors, calling elevators, activating lights, and crossing streets. Using a Rasperry Pi, cameras, ultrasonic distance sensors, and LEDs for output, the system will enable users to hover their finger, speak, or stand by the switch and be recognized to activate their target button.
+
 ## Problem Statement
 
 Every day, millions of public buttons are used by members of the general public.
@@ -39,8 +41,7 @@ How could we replace these interactions, removing a potential vector for disease
 
 We need to provide a system where existing buttons can be pressed without physical contact between the button and the public user.
 Let’s design a system that can fit above already-installed public switches, and trigger them when requested by public users.
-People should be able to use this system without touching it, so we can use a variety of input methods to allow them to activate the buttons.
-This will make opening doors, selecting your elevator floor, and using other public controls much more sanitary.
+People should be able to use this system without touching it, so we can use a variety of input methods to allow them to activate the buttons. This will make opening doors, selecting your elevator floor, and using other public controls much more sanitary.
 
 ## Solution
 
@@ -100,7 +101,14 @@ This set of requirements will be met by the *Bellboy* system and services.
     1. Provide a method of listening and speaking through Bellboy’s audio equipment
 
 
-# Contact
+## Personal & Professional Expectations
+
+Our group aims to successfully develop a touchless public interface for our current world alied by the ultra-scary COVID-19/SARS-2 virus.
+
+We will also be doing research into which designs and functions would best suit the ideas we are planning to implement and consulting different literatures to support our design choices. Making sure that our design is intuitive and accessible is crucial so that end users are able to use it with ease. We will be learning how to interface our sensors with the raspberry pi and how to use the data we get from it to produce an output in our website dashboard. We want to be able to work efficiently in a group by setting deadlines and managing time. Lastly, we plan to make our design fun for ourselves as well as our end users.
+
+
+## Contact
 
 For any questions about the project, please contact the group members with the information below.
 
