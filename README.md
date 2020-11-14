@@ -4,23 +4,45 @@ Designed and implemented by Elma Khandaker, Sein Izumita, Shriya Gundala, Yusra 
 
 <br />
 
-# System
+# Embedded: System Repository
 
 ![CI](https://github.com/Bellboy-Capstone/System/workflows/CI/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4150c01ff4e54051a6d930103ea02747)](https://www.codacy.com/gh/Bellboy-Capstone/System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bellboy-Capstone/System&amp;utm_campaign=Badge_Grade)
+[![Updates](https://pyup.io/repos/github/Bellboy-Capstone/System/shield.svg)](https://pyup.io/repos/github/Bellboy-Capstone/System/)
+[![Python
+3](https://pyup.io/repos/github/Bellboy-Capstone/System/python-3-shield.svg)](https://pyup.io/repos/github/Bellboy-Capstone/System/)
+
 
 The **System** repo stored at [/Bellboy-Capstone/System](https://github.com/Bellboy-Capstone/System) contains the embedded python program that runs on the Bellboy prototype hardware.  [_Read more here._](https://github.com/Bellboy-Capstone/System#system)
 
 <br />
 
-# Services
+# Django Microservice: Services Repository
 
 ![CI](https://github.com/Bellboy-Capstone/Services/workflows/CI/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8fb53c0f016b46889a92c8bc37d26bbe)](https://www.codacy.com/gh/Bellboy-Capstone/Services/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bellboy-Capstone/Services&amp;utm_campaign=Badge_Grade)
+[![Updates](https://pyup.io/repos/github/Bellboy-Capstone/Services/shield.svg)](https://pyup.io/repos/github/Bellboy-Capstone/Services/)
+[![Python 3](https://pyup.io/repos/github/Bellboy-Capstone/Services/python-3-shield.svg)](https://pyup.io/repos/github/Bellboy-Capstone/Services/)
 
-The **Services** repo stored at [/Bellboy-Capstone/Services](https://github.com/Bellboy-Capstone/Services) contains the Django-based web application to support the Bellboy systems. [_Read more here._](https://github.com/Bellboy-Capstone/Services#services)
+The **Services** repo stored at [/Bellboy-Capstone/Services](https://github.com/Bellboy-Capstone/Services) contains the Django-based backend to support the Bellboy systems with connections to multiple databases, and is responsible for storing long-term Bellboy usage data. [_Read more here._](https://github.com/Bellboy-Capstone/Services#services)
 
 <br />
+
+# Node.JS Microservice: Realtime-Services Repository
+
+*Not created yet.* Designed to facilitate realtime communication between bellboy devices and clients via websockets.
+
+<br />
+
+# Frontend Code: Website Repository
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bdd43dc3-fc7e-4a6d-a0b7-c51d2e751232/deploy-status)](https://app.netlify.com/sites/bellboy-capstone/deploys)
+
+The **Website** repo stored at [Bellboy-Capstone/Website](https://github.com/Bellboy-Capstone/Website) contains the frontend, built with React, which provides to users a set of graphs and information about bellboy utilization and access to advanced tools for security staff. Connects to the two Bellboy microservices (Django and Node.JS) to gain access to Bellboy status and usage history.
+
+<br />
+
+
 
 # Project Proposal
 
