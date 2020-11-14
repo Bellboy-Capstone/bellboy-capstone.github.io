@@ -119,7 +119,7 @@ For any questions about the project, please contact the group members with the i
 |----------|-------------|--------------------|
 | Ryan Fleck | [@RyanFleck](https://github.com/ryanfleck) | [rflec028@uottawa.ca](mailto:rflec028@uottawa.ca) |
 | Shriya Gundala | [@gshriya](https://github.com/gshriya) | [sgund051@uottawa.ca](mailto:sgund051@uottawa.ca) |
-| Yusra Adinoyi| [@yozohu](https://github.com/yozohu) |  [xxxxx@uottawa.ca](mailto:xxxxx@uottawa.ca) |
+| Yusra Adinoyi| [@yozohu](https://github.com/yozohu) |  [yadin030@uottawa.ca](mailto:yadin030@uottawa.ca) |
 | Elma Khandaker | [@elmakhandaker](https://github.com/elmakhandaker) | [ekhan029@uottawa.ca](mailto:ekhan029@uottawa.ca) |
 | Sein Izumita | [@seinizumita](https://github.com/seinizumita) | [sizum075@uottawa.ca](mailto:sizum075@uottawa.ca) |
 
