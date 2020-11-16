@@ -2,9 +2,23 @@
 
 Designed and implemented by Elma Khandaker, Sein Izumita, Shriya Gundala, Yusra Adinoyi, and Ryan Fleck. [Contact us.](#contact)
 
+
+
 <br />
 
-# Embedded: System Repository
+# Solution Components
+
+Our solution has four parts. Each is unit tested and most have tools to check for security flaws, unit test coverage, and code quality.
+
+1. Embedded [System](#embedded-system-repository) Program
+1. [Services](#django-microservice-services-repository) Microservice
+1. [WebSocket](#node-js-microservice-websocket-repository) Microservice
+1. Frontend [Website](#frontend-code-website-repository)
+
+
+<br />
+
+### Embedded: System Repository
 
 ![CI](https://github.com/Bellboy-Capstone/System/workflows/CI/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4150c01ff4e54051a6d930103ea02747)](https://www.codacy.com/gh/Bellboy-Capstone/System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bellboy-Capstone/System&amp;utm_campaign=Badge_Grade)
@@ -17,7 +31,7 @@ The **System** repo stored at [/Bellboy-Capstone/System](https://github.com/Bell
 
 <br />
 
-# Django Microservice: Services Repository
+### Django Microservice: Services Repository
 
 ![CI](https://github.com/Bellboy-Capstone/Services/workflows/CI/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8fb53c0f016b46889a92c8bc37d26bbe)](https://www.codacy.com/gh/Bellboy-Capstone/Services/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bellboy-Capstone/Services&amp;utm_campaign=Badge_Grade)
@@ -28,13 +42,13 @@ The **Services** repo stored at [/Bellboy-Capstone/Services](https://github.com/
 
 <br />
 
-# Node.JS Microservice: Realtime-Services Repository
+### Node.JS Microservice: WebSocket Repository
 
-*Not created yet.* Designed to facilitate realtime communication between bellboy devices and clients via websockets.
+The **WebSocket** repo stored at [/Bellboy-Capstone/WebSocket](https://github.com/Bellboy-Capstone/WebSocket) is designed to facilitate realtime communication between bellboy devices and clients via websockets. In our working implementation, it is used to stream ephemeral logs to the frontend.
 
 <br />
 
-# Frontend Code: Website Repository
+### Frontend Code: Website Repository
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bdd43dc3-fc7e-4a6d-a0b7-c51d2e751232/deploy-status)](https://app.netlify.com/sites/bellboy-capstone/deploys)
 
