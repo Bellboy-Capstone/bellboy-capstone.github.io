@@ -12,7 +12,7 @@ Our solution has four parts. Each is unit tested and most have tools to check fo
 
 1. Embedded [System](#embedded-system-repository) Program
 1. [Services](#django-microservice-services-repository) Microservice
-1. [WebSocket](#node-js-microservice-websocket-repository) Microservice
+1. [WebSocket](#nodejs-microservice-websocket-repository) Microservice
 1. Frontend [Website](#frontend-code-website-repository)
 
 
