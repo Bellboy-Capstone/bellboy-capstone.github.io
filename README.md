@@ -2,7 +2,7 @@
 
 Designed and implemented by Elma Khandaker, Sein Izumita, Shriya Gundala, Yusra Adinoyi, and Ryan Fleck. [Contact us.](#contact)
 
-<iframe width="500" height="300" src="https://www.youtube-nocookie.com/embed/VDgH6YtpP4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="280px" src="https://www.youtube-nocookie.com/embed/VDgH6YtpP4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 
